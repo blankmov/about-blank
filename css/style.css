@@ -1,0 +1,28 @@
+p {
+  font-family: "Montserrat", sans-serif;
+}
+ 
+.regular {
+  font-weight: 400;
+}
+ 
+.medium {
+  font-weight: 600;
+}
+ 
+.bold {
+  font-weight: 900;
+}
+
+a:link {
+  color : black;
+}
+a:visited {
+  color : black;
+}
+a:hover {
+  color : #987dd4;
+}
+a:active {
+  color : black;
+}
