@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>about:blank</title>
+    
+    <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-0JVR4ZRQ41"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'G-0JVR4ZRQ41');
+    </script>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css" />
+
+    <script>location.replace('https://blank.mov/?utm_campaign=nc');</script>
+
+    
+  </head>
+  <body>
+    
+    <p class="bold" style="font-size:3.2rem; margin:627px auto;"><a href=https://blank.mov>about:<i>BLANK</i></a></p>
+
+    
+  </body>
+</html>
